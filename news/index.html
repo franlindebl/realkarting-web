@@ -227,7 +227,9 @@ tabs.forEach(function (t) { t.setAttribute('aria-selected', t.getAttribute('data
 if (cache[cls]) return draw(cache[cls]);
 var keep = baked && cls === tabs[0].getAttribute('data-cls');
 if (!keep) msg(L.loading);
-fetch(url + '/v1/board/' + track + '/' + cls + '?web=1').then(function (r) { if (!r.ok) throw 0; return r.json(); })
+var ctl = window.AbortController ? new AbortController() : null;
+if (ctl) setTimeout(function () { ctl.abort(); }, 5000);
+fetch(url + '/v1/board/' + track + '/' + cls + '?web=1', ctl ? { signal: ctl.signal } : {}).then(function (r) { if (!r.ok) throw 0; return r.json(); })
 .then(function (b) { cache[cls] = b; if (box.querySelector('[aria-selected=true]').getAttribute('data-cls') === cls) draw(b); })
 .catch(function () { if (!keep) msg(L.error); });
 }
