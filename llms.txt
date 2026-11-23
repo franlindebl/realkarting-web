@@ -1,0 +1,95 @@
+# Real Karting
+
+> Free kart racing simulator where your phone is the steering wheel. Race on real circuits and through the real karting classes, from rental karts to Superkarts. Made by an independent developer in Spain; every brand in the game is fictional.
+
+## About
+
+- Platforms: iPhone and iPad (Mac and Android coming soon)
+- Price: Real Karting is free to download and play, with no ads, no loot boxes and nothing to buy to win: everyone races the same kart, and the best driver wins.
+- Languages: English, Español, Français, Deutsch, Português, Italiano
+- Developer: Fran Linde Blázquez, independent developer in Spain
+- Released: 2026-11-22 (version 1.2.0)
+- Online multiplayer: rooms of up to 20 players, free, no account needed
+- Circuits: 2 real karting circuits in Spain and 11 original circuits invented for the game (24 layouts in all)
+
+## Kart classes
+
+The career follows the real kart classes, from rental karts to Superkarts:
+
+- Rental 4T (VORTEX R-390): 4-stroke, 11 hp, Direct drive. Heavy, forgiving and on hard tyres. Rental kart nights are where it all begins.
+- Cadet (VORTEX MINI 60): 60 cc 2T, 10 hp, Direct drive. Light and lively: your first licensed championship, against drivers who give nothing away.
+- Junior (VORTEX J-125): 125 cc 2T, 20 hp, Direct drive. 125 cc, no gears, centrifugal clutch. This is where the teams start watching.
+- Senior (VORTEX S-125): 125 cc 2T, 30 hp, Direct drive. More power, same reflexes. The best drivers in the country in the national championship.
+- KZ (VORTEX KZ-125): 125 cc 2T, 47 hp, 6-speed. Sequential six-speed gearbox, front brakes and the international elite. The top class of karting.
+- Superkart (VORTEX SK-250): 250 cc twin, 95 hp, 6-speed. Full fairing and over 200 km/h on real circuits. The fastest thing you can race sitting an inch off the ground.
+
+## Key features
+
+- Rain races: Grip disappears, kerbs turn to ice and spray hides the kart ahead. At least one wet race in every class, with raindrops on your visor.
+- Real physics: A tyre model with slip, weight transfer, slipstream and kerbs, simulated 500 times per second. Every class has its own weight, power and grip.
+- 20-kart grids: Start from the back and fight your way through 19 rivals (12 karts in Superkart).
+- Rivals who race: The AI follows each track's ideal racing line, defends, looks for the gap and cracks under pressure.
+- Every light of the day: Morning, midday, golden afternoons and sunsets, with real skies at every venue.
+- Haptics: Feel the kerbs, the grass, sliding tyres, bumps and every contact.
+- Your kart, your style: Colours, race number, paint finishes, neon and tyre smoke, all earned with medals. No loot boxes.
+
+## Pages
+
+- [Real Karting home (English)](https://realkarting.com/)
+- [Real Karting home (Español)](https://realkarting.com/es/)
+- [Real Karting home (Français)](https://realkarting.com/fr/)
+- [Real Karting home (Deutsch)](https://realkarting.com/de/)
+- [Real Karting home (Português)](https://realkarting.com/pt/)
+- [Real Karting home (Italiano)](https://realkarting.com/it/)
+- [Circuits index](https://realkarting.com/circuits/)
+- [Privacy policy](https://realkarting.com/privacy.html)
+
+## Kart Classes Explained: Rental to Superkart
+
+- [Kart classes](https://realkarting.com/karts/): The six kart classes of Real Karting, from rental 4T to Superkart: engine, power, gearbox and top speed, in real life and in the game.
+- [Rental kart (4T)](https://realkarting.com/karts/rental-kart/): What a rental 4-stroke kart is: engine, power, speed and who drives it, plus how the rental kart behaves in Real Karting.
+- [Cadet kart (60 cc)](https://realkarting.com/karts/cadet-kart/): What a cadet kart is: a light 60 cc two-stroke for children, with its engine, power, speed and age group, and how it drives in Real Karting.
+- [Junior kart (125 cc)](https://realkarting.com/karts/junior-kart/): What a junior kart is: a 125 cc two-stroke with no gearbox for teenagers, with typical power and speed, and how it drives in Real Karting.
+- [Senior kart (125 cc)](https://realkarting.com/karts/senior-kart/): What a senior kart is: the adult 125 cc two-stroke with no gearbox, with typical power, speed and weight, and how it drives in Real Karting.
+- [KZ kart (125 cc, six gears)](https://realkarting.com/karts/kz-kart/): What a KZ kart is: a 125 cc two-stroke with a six-speed gearbox, power, top speed and weight, and how the KZ class drives in Real Karting.
+- [Superkart (250 cc)](https://realkarting.com/karts/superkart/): What a Superkart is: a 250 cc twin-cylinder gearbox kart with full bodywork that races on big circuits, plus how it drives in Real Karting.
+
+## Kart Driving Guides: Technique Explained
+
+- [Driving guides](https://realkarting.com/guides/): Practical kart driving guides: braking, racing line, overtaking and more, written for Real Karting drivers.
+- [The racing line in karting: how to take a corner](https://realkarting.com/guides/karting-racing-line/): The karting racing line explained: braking point, turn-in, apex and exit, late apex, hairpins, fast corners and linking corners. Practise it in the game.
+- [How to brake in a kart](https://realkarting.com/guides/kart-braking-technique/): Braking in a kart explained: rear-only brakes versus KZ front brakes, threshold and trail braking, locking the rear and braking a rental kart.
+- [How to drive a kart in the rain](https://realkarting.com/guides/driving-kart-in-the-rain/): Driving a kart in the rain: leave the rubbered-in line, smooth inputs, avoid kerbs and painted lines, see through the spray and brake earlier.
+- [Race starts and overtaking in karting](https://realkarting.com/guides/karting-race-starts-overtaking/): Race starts and overtaking in karting: rolling and standing starts, surviving the first corner, slipstream, setting up a pass and defending fairly.
+
+## About and news
+
+- [About Real Karting: fact sheet and press kit](https://realkarting.com/about/): Facts, descriptions and press images for Real Karting, a free kart racing simulator for iPhone and iPad where your phone is the steering wheel.
+- [What's new in Real Karting](https://realkarting.com/news/): A dated list of what is new in Real Karting: app releases, new pages on the website and onboard videos, only things that are already public.
+
+## Real circuits
+
+- [Circuito de Pedrezuela](https://realkarting.com/circuits/pedrezuela/): real circuit, Pedrezuela, 646 m, 11 corners
+- [Circuito de Pinto](https://realkarting.com/circuits/pinto/): real circuit, Pinto, 977 m, 10 corners
+
+## Original circuits (fictional, exist only in the game)
+
+- [El Parque](https://realkarting.com/circuits/el-parque/): original circuit (fictional, exists only in the game)
+- [La Marina](https://realkarting.com/circuits/la-marina/): original circuit (fictional, exists only in the game)
+- [Los Pinos](https://realkarting.com/circuits/los-pinos/): original circuit (fictional, exists only in the game)
+- [Del Puerto](https://realkarting.com/circuits/del-puerto/): original circuit (fictional, exists only in the game)
+- [La Vega](https://realkarting.com/circuits/la-vega/): original circuit (fictional, exists only in the game)
+- [Polígono Norte](https://realkarting.com/circuits/poligono-norte/): original circuit (fictional, exists only in the game)
+- [La Cumbre](https://realkarting.com/circuits/la-cumbre/): original circuit (fictional, exists only in the game)
+- [Circuito del Valle](https://realkarting.com/circuits/circuito-del-valle/): original circuit (fictional, exists only in the game)
+- [Circuito de la Costa](https://realkarting.com/circuits/circuito-de-la-costa/): original circuit (fictional, exists only in the game)
+- [Sierra Alta](https://realkarting.com/circuits/sierra-alta/): original circuit (fictional, exists only in the game)
+- [La Fundición](https://realkarting.com/circuits/la-fundicion/): original circuit (fictional, exists only in the game)
+
+Every page also exists in Español (under https://realkarting.com/es/), Français (under https://realkarting.com/fr/), Deutsch (under https://realkarting.com/de/), Português (under https://realkarting.com/pt/), Italiano (under https://realkarting.com/it/).
+
+## Links
+
+- [App Store](https://apps.apple.com/app/id6831921280)
+- [YouTube channel (onboard laps)](https://www.youtube.com/@RealKarting)
+- [Sitemap](https://realkarting.com/sitemap.xml)
