@@ -4,7 +4,7 @@
 
 ## About
 
-- Platforms: iPhone and iPad (Mac and Android coming soon)
+- Platforms: iPhone and iPad and Mac (Android coming soon)
 - Price: Real Karting is free to download and play, with no ads, no loot boxes and nothing to buy to win: everyone races the same kart, and the best driver wins.
 - Languages: English, Español, Français, Deutsch, Português, Italiano
 - Developer: Fran Linde Blázquez, independent developer in Spain
