@@ -205,7 +205,9 @@ var dev = DEV.hasOwnProperty(r.platform) ? DEV[r.platform] : null;
 if (!dev && c !== null) {
 if (c < 3) dev = ['phone', L.dev_phone]; else if (c !== 5) dev = ['pc', L.dev_pc];
 }
-return (dev ? glyph(dev[0], dev[1]) : '') + (c !== null && c >= 4 ? glyph('c' + c, L.ctl[c]) : '');
+var gear = c !== null && c >= 5 && typeof r.gear === 'string' ? r.gear : '';
+return (dev ? glyph(dev[0], dev[1] + (c !== null && c < 3 ? ' · ' + L.ctl[c] : '')) : '') +
+(c !== null && c >= 4 ? glyph('c' + c, L.ctl[c] + (gear ? ' · ' + gear : '')) : '');
 }
 function msg(t) { body.innerHTML = '<p class="board-msg">' + esc(t) + '</p>'; foot.innerHTML = ''; }
 function draw(b) {
