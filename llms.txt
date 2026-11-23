@@ -8,7 +8,7 @@
 - Price: Real Karting is free to download and play, with no ads, no loot boxes and nothing to buy to win: everyone races the same kart, and the best driver wins.
 - Languages: English, Español, Français, Deutsch, Português, Italiano
 - Developer: Fran Linde Blázquez, independent developer in Spain
-- Released: 2026-11-22 (version 1.2.0)
+- Released: 2026-11-23 (version 1.3.0)
 - Online multiplayer: rooms of up to 20 players, free, no account needed
 - Circuits: 2 real karting circuits in Spain and 11 original circuits invented for the game (24 layouts in all)
 
