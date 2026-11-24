@@ -10,7 +10,7 @@
 - Developer: Fran Linde Blázquez, independent developer in Spain
 - Released: 2026-11-23 (version 1.3.0)
 - Online multiplayer: rooms of up to 20 players, free, no account needed
-- Circuits: 2 real karting circuits in Spain and 11 original circuits invented for the game (24 layouts in all)
+- Circuits: 3 real karting circuits in Spain and 11 original circuits invented for the game (25 layouts in all)
 
 ## Kart classes
 
@@ -71,6 +71,7 @@ The career follows the real kart classes, from rental karts to Superkarts:
 
 - [Circuito de Pedrezuela](https://realkarting.com/circuits/pedrezuela/): real circuit, Pedrezuela, 646 m, 11 corners
 - [Circuito de Pinto](https://realkarting.com/circuits/pinto/): real circuit, Pinto, 977 m, 10 corners
+- [Circuito de Los Santos](https://realkarting.com/circuits/los-santos/): real circuit, Los Santos de la Humosa, 1046 m, 9 corners
 
 ## Original circuits (fictional, exist only in the game)
 
